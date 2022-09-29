@@ -9,6 +9,7 @@ public class Main {
     public static void main(final String[] args){
         PhotoUploader photoUploader = new PhotoUploader();
 
+
         try
         {
             photoUploader.displayMenu();
